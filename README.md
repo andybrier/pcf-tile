@@ -1,5 +1,5 @@
 # pcf-tile
 pivotal cloud foundry tile
 
-
-this is for work 
+metadata tested for:
+- https://github.com/cloudfoundry-community/zookeeper-boshrelease
